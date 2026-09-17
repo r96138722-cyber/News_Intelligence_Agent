@@ -1,0 +1,7 @@
+Project: AI News Intelligence Agent
+
+Problem Statement:
+Organizations cannot manually monitor all relevant news.
+
+Solution Statement:
+Collect, summarize and categorize important developments.
